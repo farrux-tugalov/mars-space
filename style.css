@@ -1,0 +1,183 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+header{
+display: flex;
+justify-content: space-between;
+font-family: Inter;
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 24px;
+padding: 20px 40px;
+line-height: 100%;
+letter-spacing: 0%;
+align-items: center;
+margin-top: 0 20px;
+
+
+box-shadow: 0px 4px 4px 0px #00000040;
+;
+
+}
+
+header ul{
+display: flex;
+gap: 80px;
+color: #BCAAAA;
+list-style: none;
+}
+
+header a{
+text-decoration: none;
+color: #BCAAAA;
+}
+.a1{
+    color: #EF400F;
+
+}
+
+.botton1{
+
+ width: 219px;
+ height: 63px;
+ border: 3px solid  #EF400F;
+border-radius: 20px;
+font-family: Inter;
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 24px;
+
+line-height: 100%;
+letter-spacing: 0%;
+color: #EF400F;
+}
+
+main{
+    padding: 0 100px;
+}
+
+
+.section-1{
+display: flex;
+justify-content: space-between;
+margin-top: 40px;
+}
+
+.box{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.box h4{
+    font-family: Inter;
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 40px;
+
+line-height: 100%;
+letter-spacing: 0%;
+font-family: Inter;
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 40px;
+
+line-height: 100%;
+letter-spacing: 0%;
+color: #0D0C5C;
+
+
+}
+
+
+.box input{
+width: 386px;
+height: 60px;
+background-color: black;
+border-radius: 20px;
+color: white;
+font-family: Inter;
+font-weight: 400;
+font-style: Regular;
+font-size: 24px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+
+}
+
+
+.box button{
+
+    width: 116px;
+height: 60px;
+
+border-radius: 20px;
+font-family: Inter;
+font-weight: 400;
+font-style: Regular;
+font-size: 24px;
+
+line-height: 100%;
+letter-spacing: 0%;
+background-color: #0D0D5B;
+color: white;
+
+
+}
+
+.box h3{
+    font-family: Inter;
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 32px;
+color:#EF400F;
+line-height: 100%;
+letter-spacing: 0%;
+
+}
+
+.card{
+    width: 290px;
+    height: 290px;
+    box-shadow: 0px 4px 13.3px 0px #00000040;
+    border-radius: 20px;
+}
+
+.section5{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 35px;
+
+
+}
+
+.card{
+    align-items: center;
+    text-align: center;
+    font-family: Inter;
+font-weight: 500;
+font-style: Medium;
+font-size: 15px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+
+}
+
+.card img {
+    margin-top: 10px auto;
+}
+
+footer{
+justify-content: space-between;
+display: flex;
+
+margin-top: 60px;
+box-shadow: 0px 4px 17.9px 0px #00000040;
+padding: 0 40px;
+text-align: center;
+}
